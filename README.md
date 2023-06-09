@@ -1,16 +1,18 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://yt3.googleusercontent.com/Hs6TAMg9aeN5b5QUwpzl9A39xwKpgyqmWBIvPVQB5S4gj2FUzjBW4m7U_mdqUs9lYxqIBeIw9uQ=s900-c-k-c0x00ffffff-no-rj">
 
-<!--
-**DexsaNN/DexsaNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Janek :cat:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝JavaScript beginner developer
+
+## About me 
+
+:blue_heart: Programming
+
+- :earth_americas: I'm from Poland
+- :video_game: I play video games
+
+## Social media :mailbox_with_no_mail:
+
+:mailbox_with_no_mail: Discord: Janek.#9913
+:mailbox_with_no_mail: E-mail: janguc222@gmail.com
