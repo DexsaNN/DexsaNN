@@ -10,7 +10,6 @@
 :blue_heart: Programming
 
 - :earth_americas: I'm from Poland
-- :video_game: I play video games
 
 ## Social media :mailbox_with_no_mail:
 
