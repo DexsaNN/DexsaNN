@@ -5,12 +5,6 @@
 
 📝JavaScript beginner developer
 
-## About me 
-
-:blue_heart: Programming
-
-- :earth_americas: I'm from Poland
-
 ## Social media :mailbox_with_no_mail:
 
 :mailbox_with_no_mail: Discord: Janek.#9913
