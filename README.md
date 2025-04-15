@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="[https://yt3.googleusercontent.com/Hs6TAMg9aeN5b5QUwpzl9A39xwKpgyqmWBIvPVQB5S4gj2FUzjBW4m7U_mdqUs9lYxqIBeIw9uQ=s900-c-k-c0x00ffffff-no-rj](https://preview.redd.it/coding-cat-is-raising-your-productivity-3-v0-dtkrm36qtnb81.png?auto=webp&s=bf17359fa9c55f41e0e1910558f4a8475b28091c)">
+<img align="right" width="400" height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIAMHEZq11dCP-F1hf2SA0rZzzZohyX3gmoA&s">
 
 
 # Hi, I'm Janek :cat:
