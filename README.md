@@ -7,5 +7,5 @@
 
 ## Social media :mailbox_with_no_mail:
 
-:mailbox_with_no_mail: Discord: Janek.#9913
+:mailbox_with_no_mail: Discord: dexsann.
 :mailbox_with_no_mail: E-mail: janguc222@gmail.com
