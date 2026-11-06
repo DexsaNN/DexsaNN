@@ -1,9 +1,7 @@
 <img align="right" width="400" height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIAMHEZq11dCP-F1hf2SA0rZzzZohyX3gmoA&s">
 
 
-# Hi, I'm DexsaNN :cat:
-
-📝JavaScript beginner developer
+# Hi, I'm DexsaNN!
 
 ## Social media :mailbox_with_no_mail:
 
