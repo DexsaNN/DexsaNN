@@ -7,5 +7,4 @@
 
 ## Social media :mailbox_with_no_mail:
 
-:mailbox_with_no_mail: Discord: dexsann.
-:mailbox_with_no_mail: E-mail: janguc222@gmail.com
+:mailbox_with_no_mail: Discord: dexsann. 
